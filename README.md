@@ -86,9 +86,9 @@ i组织来源：最初来自“iOS开发-多线程交流”的微信群，最后
 
 `群专属壁纸-第06版（绝对不挡群昵称版本+适配非齐刘海版本+适配iPhoneX版本）.jpg`
 
-竖屏字- light mode | 竖屏字- dark mode  | 居中版本
-:-------------:|:-------------:|:-------------:
-![](http://ww4.sinaimg.cn/large/006tNc79gy1g4zfxzti30j30u01sxjrq.jpg) |   ![](http://ww4.sinaimg.cn/large/006tNc79gy1g4zfy9mjaoj30u01sx3yy.jpg)| ![](http://ww2.sinaimg.cn/large/006tNc79gy1g4zfxm6cvwj30u01sxmzx.jpg)
+竖屏字- light mode |  竖屏字- light mode |  竖屏字- dark mode  | 居中版本
+:-------------:|:-------------:|:-------------:|:-------------:
+ ![](http://ww4.sinaimg.cn/large/006tNc79gy1g4zfxzti30j30u01sxjrq.jpg)  |  ![](http://ww4.sinaimg.cn/large/006tNc79gy1g5c55yhwh8j30u01sxwg8.jpg) |   ![](http://ww4.sinaimg.cn/large/006tNc79gy1g4zfy9mjaoj30u01sx3yy.jpg) |  ![](http://ww2.sinaimg.cn/large/006tNc79gy1g4zfxm6cvwj30u01sxmzx.jpg)
 
 
  
