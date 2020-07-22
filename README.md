@@ -1,9 +1,8 @@
-# [iTeaTime(技术清谈)](https://github.com/iteatimeteam/Friday-QA/issues/1)微信群每周五问答环节
+# [iTeaTime | 技术清谈](https://github.com/iteatimeteam/Friday-QA/issues/1)微信群每周五问答环节
 
 --------------------------------------------
 
-
-![](http://ww2.sinaimg.cn/large/006tNc79ly1g4x1lrjkpuj31sr0q2tc0.jpg)
+<p align="center"><a href="https://github.com/iteatimeteam"><img src="https://i.loli.net/2020/07/22/kvHfFaeRzyE5hsC.gif"></a></p>
 
 
 ----------
@@ -16,6 +15,8 @@ i组织来源
 中文名：技术清谈/i组织来源
 
 i组织来源：最初来自“iOS开发-多线程交流”的微信群，最后演变为“iTeaTime(技术清谈)”群，此群500人已满，不再加人。
+
+英文名：iTeaTime，读作IT Time。旗下有源码派、技术清谈几个分支。技术清谈主要做编程知识分享，源码派主要做代码开源。组织来源：由一群对开源有热情的开发者组成的非营利组织。
 
 
 往期清谈汇总
