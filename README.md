@@ -1,4 +1,4 @@
-# [iTeaTime | 技术清谈](https://github.com/iteatimeteam/Friday-QA/issues/1)微信群每周五问答环节
+# [iTeaTime | 技术清谈](https://github.com/iteatimeteam/Friday-QA/issues/1) 微信群每周五问答环节
 
 --------------------------------------------
 
